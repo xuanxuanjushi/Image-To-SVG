@@ -1,10 +1,12 @@
 <h1 align="center">图片转矢量 SVG</h1>
-<p align="center"><b>Image to SVG Vectorizer</b></p>
+<p align="center"><b>Image-To-SVG Vectorizer</b></p>
 <p align="center">Windows 10/11 · Python + PySide6 · OpenCV / scikit-image / potracer</p>
 
 > 把位图转成矢量 SVG 的本地桌面工具，提供单线描边、实心轮廓和彩色量化三种模式，全程本地处理，图片不上传。
 >
 > A local desktop tool that converts bitmaps into vector SVG files, with three modes: centreline stroke, solid outline plus fill, and colour-quantised fill. Everything runs offline.
+
+> 关键词：图片转SVG、矢量化、描边、轮廓提取、Illustrator 路径 / Keywords: image to svg, vectorize, tracing, outline, potrace, Illustrator, PySide6
 
 [简体中文](#功能) | [English](#english)
 
