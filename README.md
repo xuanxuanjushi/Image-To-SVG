@@ -10,6 +10,14 @@
 
 [简体中文](#功能) | [English](#english)
 
+## 下载
+
+免安装单文件版在 [Releases](https://github.com/xuanxuanjushi/Image-To-SVG/releases/latest) 页面：
+
+| 文件 | 说明 |
+| --- | --- |
+| Image-To-SVG-1.0.0-windows.exe | 双击即用；如果 Windows 提示未知发布者，选择「更多信息 - 仍要运行」 |
+
 ## 功能
 
 - **线条 · 可调粗细**：把线条和文字抽成连续单线，导出描边路径，可在 Illustrator 里继续调线宽
