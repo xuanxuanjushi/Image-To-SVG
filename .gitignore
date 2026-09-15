@@ -1,0 +1,17 @@
+# 运行产物
+__pycache__/
+*.pyc
+*.pyo
+
+# 打包与依赖（体积大，可重新生成）
+build/
+dist/
+libs/
+venv/
+.venv/
+
+# 备份与本机临时文件
+*.bak
+*.log
+Thumbs.db
+desktop.ini
